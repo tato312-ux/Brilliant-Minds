@@ -1,5 +1,15 @@
 ![Brilliant Minds Logo](docs/img/brilliant-minds-logo.png)
 
+## My Contribution
+
+This was a team project. My name is Hector Rene Conde Chuquimia. My primary contribution focused on the agentic RAG workflow used to retrieve relevant document context and generate grounded responses.
+
+- Designed and implemented key parts of the retrieval-augmented generation pipeline
+- Integrated Azure AI Search with backend services for document-grounded answers
+- Worked on knowledge source and knowledge base service flows
+- Supported agent orchestration for context-aware response generation
+- Contributed to backend configuration related to the RAG workflow
+
 # Brilliant Minds
 
 *Learn Your Way. Thrive Your Way*
@@ -33,15 +43,6 @@ By combining advances in artificial intelligence, learning analytics, and pedago
 - 📱 **Responsive Design** – Works seamlessly on desktop and mobile
 - 🚀 **Demo & Production Modes** – Local testing with mocks or live Azure connections
 
-## My Contribution
-
-This was a team project. My primary contribution focused on the agentic RAG workflow used to retrieve relevant document context and generate grounded responses.
-
-- Designed and implemented key parts of the retrieval-augmented generation pipeline
-- Integrated Azure AI Search with backend services for document-grounded answers
-- Worked on knowledge source and knowledge base service flows
-- Supported agent orchestration for context-aware response generation
-- Contributed to backend configuration related to the RAG workflow
 
 ## 📋 Prerequisites
 
